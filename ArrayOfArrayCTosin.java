@@ -1,5 +1,5 @@
 package primeirosprogramas;
-public class ArrayOfArray {
+public class ArrayOfArrayCTosin {
 
     public static void main(String[] args) {
 

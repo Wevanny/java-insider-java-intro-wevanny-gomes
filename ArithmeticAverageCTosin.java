@@ -1,6 +1,6 @@
 package primeirosprogramas;
 
-public class ArithmeticAverage {
+public class ArithmeticAverageCTosin {
     public static void main(String[] args) {
         int n1 = 4;
         int n2 = 7;
