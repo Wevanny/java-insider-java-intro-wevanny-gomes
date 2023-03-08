@@ -1,7 +1,6 @@
 package primeirosprogramas;
 
 public class BreakingLoop {
-
     public static void main(String[] args) {
 
         /*while (true) {
