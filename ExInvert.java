@@ -10,7 +10,7 @@ public class ExInvert {
 
         for (int i = 0; i < sizeArray; i++) {
             invertedArray[i] = array[reducedSizeArray - i];
-            System.out.println(invertedArray[i]);
+            System.out.print(invertedArray[i] + " ");
         }
 
     }

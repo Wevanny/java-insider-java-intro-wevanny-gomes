@@ -7,6 +7,8 @@ public class BubbleSort {
         int[] array = {5, 4, 6, 2, 7, 6}; // --> {2, 4, 5, 6, 6, 7}
         System.out.println(Arrays.toString(array));
 
+        // Bubble Sort!
+
         for (int i = 0; i < array.length - 1; i ++) {
             for (int j = i + 1; j < array.length; j++) {
                 if (array[i] > array[j]) {

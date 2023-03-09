@@ -1,6 +1,6 @@
 package primeirosprogramas;
 
-public class EvenNumbers {
+public class EvenNumbersCTosin {
 
     public static void main(String[] args) {
 

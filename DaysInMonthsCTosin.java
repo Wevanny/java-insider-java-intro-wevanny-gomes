@@ -1,6 +1,6 @@
 package primeirosprogramas;
 
-public class DaysInMonthsCarlos {
+public class DaysInMonthsCTosin {
     public static void main(String[] args) {
         int month = 2;
         int numDays;

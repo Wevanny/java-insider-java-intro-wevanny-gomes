@@ -1,9 +1,9 @@
 package primeirosprogramas;
 
-public class ExFutureValueCarlos {
+public class ExFutureValueCTosin {
     public static void main(String[] args) {
         double pv = 30000;
-        double i = 0.02;
+        double i = 0.02; //2% ao mês
         int n = 24;
 
         double fv = pv * Math.pow(1 + i, n);

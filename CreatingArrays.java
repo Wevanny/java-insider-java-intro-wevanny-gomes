@@ -4,14 +4,17 @@ public class CreatingArrays {
 
     public static void main(String[] args) {
 
-        int[] array1 = {-1, 0, 4, 10};
-        System.out.println(array1);
-        System.out.println(Arrays.toString(array1));
-        System.out.println(array1.length);
+        int[] array = {-1, 0, 4, 10};
+        System.out.println(array);
+        System.out.println(Arrays.toString(array));
+        System.out.println(array.length);
 
-        String[] array2 = new String[3];
-        array2[1] = "abc";
-        System.out.println(Arrays.toString(array2));
-        System.out.println(array2.length);
+        System.out.println("");
+
+        String[] outroArray = new String[3];
+        outroArray[1] = "abc";
+        System.out.println(outroArray);
+        System.out.println(Arrays.toString(outroArray));
+        System.out.println(outroArray.length);
     }
 }

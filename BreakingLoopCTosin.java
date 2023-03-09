@@ -1,6 +1,6 @@
 package primeirosprogramas;
 
-public class BreakingLoop {
+public class BreakingLoopCTosin {
     public static void main(String[] args) {
 
         /*while (true) {
@@ -13,6 +13,7 @@ public class BreakingLoop {
         }
 
         System.out.println("Encontrou número alto!");*/
+        //OU --> Com e sem break
 
         int n = 0;
         while (n <= 50) {

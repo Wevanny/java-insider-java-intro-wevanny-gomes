@@ -7,9 +7,9 @@ public class ExBhaskara {
         //x = (-b ± √▲) / 2 * a;
         //▲ = b² - 4 * a * c;
 
-        double a = 3;
-        double b = 0;
-        double c = -27;
+        double a = 1;
+        double b = -1;
+        double c = -12;
 
         double delta = Math.pow(b, 2) - 4 * a * c;
         System.out.println("Delta = " + delta);

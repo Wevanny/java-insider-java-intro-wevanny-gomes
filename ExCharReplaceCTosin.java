@@ -1,5 +1,5 @@
 package primeirosprogramas;
-public class ExCharReplaceCarlos {
+public class ExCharReplaceCTosin {
     public static void main(String[] args) {
         String s = replaceText("Eu gosto de Python", "Python", "Java");
         System.out.println(s);
