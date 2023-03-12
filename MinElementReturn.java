@@ -3,6 +3,15 @@ public class MinElementReturn {
 
     public static void main(String[] args) {
 
+        /*int min1 = findMin(new int[] {1, 6, 9});
+        System.out.println(min1);
+
+        int min2 = findMin(new int[] {-5, 4, -3});
+        System.out.println(min2);
+
+        int min3 = findMin(new int[] {5, 4, 3});
+        System.out.println(min3);*/
+
         System.out.println("Início");
         int[] arr = {1, 6, 9};
         int[] arr2 = new int[2];

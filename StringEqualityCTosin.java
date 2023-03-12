@@ -1,8 +1,8 @@
 package primeirosprogramas;
-public class StringEquality {
+public class StringEqualityCTosin {
     public static void main(String[] args) {
         /* String a = "dog";
-       //String b = "cat";
+       String b = "cat";
        String b = "dog"; */
 
       /* if (a == b) {
@@ -11,9 +11,9 @@ public class StringEquality {
             System.out.println("Strings different!");
          } */
 
-        //Podem ser ou não o mesmo objeto na memória pois Strings são objetos e por esse motivo estão sendo comparadas
-        // suas referências e não seu conteúdo.
-        //No exemplo acima a comparação deu certo mas no exemplo abaixo não.
+        /*Podem ser ou não o mesmo objeto na memória pois Strings são objetos e por esse motivo estão sendo
+        comparadas suas referências e não seu conteúdo.
+        No exemplo acima a comparação deu certo mas no exemplo abaixo não.*/
 
         String a = new String("dog");
         String b = new String("dog");

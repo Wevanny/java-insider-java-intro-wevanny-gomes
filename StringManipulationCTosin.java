@@ -1,5 +1,5 @@
 package primeirosprogramas;
-public class StringManipulation {
+public class StringManipulationCTosin {
     public static void main(String[] args) {
         String s1 = "eu gosto ";
         String s2 = "de Java";

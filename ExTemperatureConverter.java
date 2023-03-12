@@ -10,6 +10,7 @@ public class ExTemperatureConverter {
         double tc;
 
         tc = ((tf - 32) / 9) * 5;
+        //ou tc = ((tf - 32)) / 9 * 5;
         System.out.println("The conversion to Celsius is: " + tc);
 
     }

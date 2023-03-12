@@ -8,7 +8,8 @@ public class Growth {
     }
 
     static double calculateGrowth(double valueStart, double valueEnd) {
-        //double v = ((valueEnd - valueStart) / valueStart) *
+        //double v = ((valueEnd - valueStart) / valueStart)
+        //double v = (valueEnd - valueStart) / valueStart;
         return ((valueEnd - valueStart) / valueStart) * 100;
     }
 }
